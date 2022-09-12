@@ -1,3 +1,6 @@
 node_modules
 .env
 .DS_Store
+
+# ginore txt file for my psuedo code
+*.txt
